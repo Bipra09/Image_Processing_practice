@@ -1,0 +1,5 @@
+.venv/ 
+venv/ 
+__pycache__/ 
+*.pyc 
+2026-study-project.zip 
